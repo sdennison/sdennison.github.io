@@ -3,4 +3,4 @@
     <script>
 function myFunction() {
     var x = document.createElement("BUTTON");
-
+   $("#chicken")click(function)
