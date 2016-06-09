@@ -11,3 +11,7 @@ body{
   margin-top: 100px;
   margin-right: 50px;
 }
+button{
+  width: 30px;
+  height: 20px;
+}
